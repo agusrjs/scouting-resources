@@ -1,7 +1,7 @@
 # Scouting Resources  
 Resources for dashboards and reports on football scouting.
 
-![Home Dashboard](Screenshot00.png)  
+![Home Dashboard](asset/Screenshot00.png)  
 
 ## Overview  
 **Scouting Resources** is a repository that provides assets and scripts for creating football scouting dashboards and reports. This includes visual elements such as backgrounds, heatmaps, logos, and player images, as well as a Python notebook for generating heatmaps based on event data.  
@@ -13,6 +13,7 @@ Resources for dashboards and reports on football scouting.
   - Heatmaps for player analysis.  
 
 - **Screenshots**:  
-  Examples of the dashboard created with Power BI using these resources:  
-  - ![Player detail (a)](Screenshot01.png)  
-  - ![Player detail (b)](Screenshot02.png)
+  Examples of the dashboard created with Power BI using these resources:
+
+![Player detail (a)](asset/Screenshot01.png)
+![Player detail (b)](asset/Screenshot02.png)
