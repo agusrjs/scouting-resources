@@ -14,5 +14,5 @@ Resources for dashboards and reports on football scouting.
 
 - **Screenshots**:  
   Examples of the dashboard created with Power BI using these resources:  
-  - ![Player detail (a)](asset/Screenshot01.png)  
-  - ![Player detail (b)](asset/Screenshot02.png)
+![Player detail (a)](asset/Screenshot01.png)  
+![Player detail (b)](asset/Screenshot02.png)
